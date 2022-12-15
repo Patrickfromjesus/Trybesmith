@@ -20,6 +20,13 @@ Ao utilizá-lo com o método <strong>POST</strong>, o usuário fará login no gu
 
 2. Ao utilizá-lo com o método <strong>GET</strong>, pode-se ter acesso a todas os pedidos e produtos referentes a eles existentes no banco de dados.
 
+<details>
+  <summary><strong>Diagrama Entidade Relacionamento do projeto</strong></summary><br />
+
+  <img src="images/diagram-der.png" height="200px" />
+
+</details>
+
 ## 🛠️ tecnologias e frameworks utilizados
 * [Node.js (Express)](http://expressjs.com/);
 * [Typescript](https://www.typescriptlang.org/pt/docs/);
