@@ -1,6 +1,6 @@
 # Trybesmith  🚀
 Projeto Trybesmith realizado durante a formação acadêmica na Trybe com o objetivo de desenvolver uma API e um banco de dados para o gerenciamento de transações de uma guilda de ferreiro.
-Foi desenvolvida um aplicação em `Node.js` e `Ttpescript` usando `mysql2` para fazer um `CRUD` dos pedidos .
+Foi desenvolvida um aplicação em `Node.js` e `Typescript` usando `mysql2` para fazer um `CRUD` dos pedidos .
 
 <sub>Quando utilizado o sinal `<>` neste documento, significa que é necessária a utilização do token de autorização nas requisições.</sub>
 
